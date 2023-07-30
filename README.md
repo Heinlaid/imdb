@@ -1,6 +1,10 @@
 # imdb
 Script for entering a movie review with automatic assignment of a rating (from 1 to 10) and comment status (positive or negative).
+
+
 Based on "Large Movie Review Dataset v1.0", https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+
+
 @InProceedings{maas-EtAl:2011:ACL-HLT2011,
   author    = {Maas, Andrew L.  and  Daly, Raymond E.  and  Pham, Peter T.  and  Huang, Dan  and  Ng, Andrew Y.  and  Potts, Christopher},
   title     = {Learning Word Vectors for Sentiment Analysis},
